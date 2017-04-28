@@ -1,0 +1,15 @@
+# Jetbrains files
+.idea
+*.iml
+
+# Project folders/dependencies
+node_modules/
+build/
+coverage/
+manifest.webapp
+target/
+
+# Misc files
+npm-debug.log
+.DS_Store
+
